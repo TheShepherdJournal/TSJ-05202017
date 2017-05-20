@@ -1,12 +1,12 @@
 ---
-ID: 20
+ID: 18
 post_title: 'Shepherd High School Announcements for Friday, May 19, 2017:'
 author: ng23055
-post_date: 2017-05-20 02:37:26
+post_date: 2017-05-20 02:42:53
 post_excerpt: ""
 layout: post
 permalink: >
-  http://publish.shepherdhistory.org/tsj-05202017/?p=20
+  http://publish.shepherdhistory.org/tsj-05202017/?p=18
 published: false
 ---
 <p><i>Announcements for Friday, May 19, 2017:</i></p>
@@ -19,6 +19,6 @@ published: false
 <li>Please note that May 26th is a full day of school.</li>
 </ul>
 <p></p>
-<p></p>
+<p>hi</p>
 <p><hr></p>
 <p><a href="https://docs.google.com/document/d/1QRvZa-U7Yo1_bhoA-oFpsgPNHaUSYI_WwLafA2f5MeM/edit?usp=sharing">Edit Document</a></p>
